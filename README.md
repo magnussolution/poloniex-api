@@ -1,4 +1,4 @@
-# Poloniex API
+test # Poloniex API
 PHP wrapper for the Poloniex API
 
 [![Total Downloads](https://poser.pugx.org/dzarezenko/poloniex-api/downloads)](https://packagist.org/packages/dzarezenko/poloniex-api)
