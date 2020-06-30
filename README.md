@@ -1,6 +1,10 @@
 test # Poloniex API
 PHP wrapper for the Poloniex API
 
+
+[![How to set-up basic configuration and make your first call](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/r1XCJnfdZA&t=73s)
+
+
 [![Total Downloads](https://poser.pugx.org/dzarezenko/poloniex-api/downloads)](https://packagist.org/packages/dzarezenko/poloniex-api)
 [![License](https://poser.pugx.org/dzarezenko/poloniex-api/license)](https://packagist.org/packages/dzarezenko/poloniex-api)
 [![StyleCI](https://styleci.io/repos/86438595/shield)](https://styleci.io/repos/86438595)
